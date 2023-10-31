@@ -12,4 +12,5 @@ cosmwasm-std = "1.0.0"
 cw721-base = { version = "0.18.0", features = ["library"] }
 
 [dev-dependencies]
+cw-ownable = "0.5.1"
 cw721 = "0.18.0"
